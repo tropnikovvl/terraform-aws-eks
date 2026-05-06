@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [21.20.0](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.19.1...v21.20.0) (2026-05-06)
+
+### Features
+
+* Add opt-in `aws:SourceAccount` condition to Karpenter node IAM role trust policy ([#3695](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3695)) ([0515ad6](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/0515ad6d5188a80c9c8375710aebc97c1b6bad5f)), closes [#3688](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3688)
+
 ## [21.19.1](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.19.0...v21.19.1) (2026-05-06)
 
 ### Bug Fixes
