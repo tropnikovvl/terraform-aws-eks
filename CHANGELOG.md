@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [21.23.0](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.22.0...v21.23.0) (2026-05-29)
+
+### Features
+
+* Add nested_virtualization cpu_option ([#3686](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3686)) ([ddec8b9](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/ddec8b98676927f7a40a50330e4b5a8ce1a96cf6)), closes [#3685](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3685)
+* Add support for launch template `network_performance_options` ([#3714](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3714)) ([9be4cbd](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/9be4cbd7c66a45d3033f2a2e329a25fff3e4dff7))
+
 ## [21.22.0](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.21.0...v21.22.0) (2026-05-25)
 
 ### Features
