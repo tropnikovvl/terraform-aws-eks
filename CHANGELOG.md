@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [21.24.2](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.24.1...v21.24.2) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#3739](https://github.com/terraform-aws-modules/terraform-aws-eks/issues/3739)) ([e22260e](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/e22260e7893f8eeaf07dbbe694320421a9768c15))
+
 ## [21.24.1](https://github.com/terraform-aws-modules/terraform-aws-eks/compare/v21.24.0...v21.24.1) (2026-07-31)
 
 ### Bug Fixes
